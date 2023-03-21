@@ -1,4 +1,4 @@
-<img src="BackGround.png"/>
+<img src="BackGround_.png"/>
 <h1 align="center">Hi 👋, I'm Nivas</h1>
 <h3 align="center">I'm Passionate about Cloud and DevOps Engineer</h3>
 
