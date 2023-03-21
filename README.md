@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nivas</h1>
 <h3 align="center">I'm Passionate about Cloud and DevOps Engineer</h3>
-<img src="Dev.gif"/>
+<img src="Dev.gif" width="200" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-nivas&label=Profile%20views&color=0e75b6&style=flat" alt="iam-nivas" /> </p>
 
