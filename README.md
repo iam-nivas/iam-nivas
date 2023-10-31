@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iam-nivas" alt="iam-nivas" /></a> </p>
 <img align="right" src="Dev.gif" width="350" />
-- 🔭 I’m currently working on [Archimedis]
+- 🔭 I’m currently working as DevSecOps Projects
 
 - 🌱 I’m currently learning **CKS, Terraform**
 
