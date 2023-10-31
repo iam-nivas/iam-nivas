@@ -1,12 +1,12 @@
 <img src="BackGround_.png"/>
 <h1 align="center">Hi 👋, I'm Nivas</h1>
-<h3 align="center">I'm Passionate about Cloud and DevOps Engineer</h3>
+<h3 align="center">I'm Passionate about Cloud and DevSecOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-nivas&label=Profile%20views&color=0e75b6&style=flat" alt="iam-nivas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iam-nivas" alt="iam-nivas" /></a> </p>
 <img align="right" src="Dev.gif" width="350" />
-- 🔭 I’m currently working on [Archimedis](Ecapsule)
+- 🔭 I’m currently working on [Archimedis]
 
 - 🌱 I’m currently learning **CKS, Terraform**
 
